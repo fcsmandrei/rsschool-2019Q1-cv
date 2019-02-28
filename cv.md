@@ -1,10 +1,11 @@
 # **Summary**
 
-1. *Name:* Andrei; *surname:* Leonchikov;
-2. *Contact:*  Mogilev, Belarus. 
+1. ***Name:*** Andrei; *surname:* Leonchikov;
+2. ***Contact:***  Mogilev, Belarus. 
 You can get in touch with me: 
 *tel:* +375(44)539-58-30, 
 *email:* leonchikovandrei@gmail.com
+
 ***
 
 3.  ## PROFILE:
@@ -21,6 +22,7 @@ A conscientious, fast learner offering the ability to assess an organization’s
 * Avacode/Photoshop;
 
 5.  ## Code example:
+
 ***
    
     function camelize(str) {
@@ -32,6 +34,7 @@ A conscientious, fast learner offering the ability to assess an organization’s
 
       return arr.join('');
     }
+
 ***
 
 6.  ## Experience:
@@ -43,5 +46,6 @@ A conscientious, fast learner offering the ability to assess an organization’s
 
 8.  ## English 
 Level: A2. I went to offline course "English80" in Mogilev.
+
 ***
 
