@@ -4,7 +4,7 @@
 2. ***Contact:***  Mogilev, Belarus.
 
 You can get in touch with me: 
-*tel:* +375(44)539-58-30, 
+*telephone:* +375(44)539-58-30, 
 *email:* leonchikovandrei@gmail.com
 
 ***
