@@ -1,6 +1,6 @@
 # **Summary**
 
-1. ***Name:*** Andrei; *surname:* Leonchikov;
+1. ***Name:*** Andrei; ***surname:*** Leonchikov;
 2. ***Contact:***  Mogilev, Belarus.
 
 You can get in touch with me: 
@@ -46,7 +46,7 @@ A conscientious, fast learner offering the ability to assess an organization’s
 ### Higher education:
 * BSUIR, Computer-aided Design, 2015 
 ### IT education:
-Codecademy.com, htmlbook.ru, WebRef.ru, learn.javascript.ru and other internet resources.
+* Codecademy.com, htmlbook.ru, WebRef.ru, learn.javascript.ru and other internet resources.
 
 8.  ## English 
 Level: A2. I went to offline course "English80" in Mogilev.
