@@ -18,6 +18,7 @@ A conscientious, fast learner offering the ability to assess an organization’s
 * CSS( Cascading Style Sheets);
 * Bottstrap;
 * Git;
+* Avacode/Photoshop;
 
 5.  ## Code example:
 ***
@@ -26,7 +27,6 @@ A conscientious, fast learner offering the ability to assess an organization’s
       var arr = str.split('-');
 
       for (var i = 1; i < arr.length; i++) {
-        // ïðåîáðàçîâàòü: ïåðâûé ñèìâîë ñ áîëüøîé áóêâû
         arr[i] = arr[i].charAt(0).toUpperCase() + arr[i].slice(1);
       }
 
