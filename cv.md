@@ -38,6 +38,7 @@ A conscientious, fast learner offering the ability to assess an organization’s
 
 ***
 
+
 6.  ## Experience:
 ### My sites: 
 [http://www.salon-mayak.by/](http://www.salon-mayak.by/), [http://staltrest.by/](http://staltrest.by/) ect.
